@@ -10,6 +10,8 @@ namespace back_end.classes
     {
        public string? cpf {get; set;} 
 
+       public DateTime dataNasc {get; set;}
+
        public override float CalcularImposto(float rendimento)
         {
            if (rendimento <= 1500)
@@ -39,12 +41,42 @@ namespace back_end.classes
              return resultado;
              
            }
-            throw new NotImplementedException();
+          
         }
 
         public bool ValidarDataNasc(DateTime dataNasc)
         {
-            throw new NotImplementedException();
+            DateTime dataAtual = DateTime.Today;
+           var anos = (dataAtual- dataNasc).TotalDays/365;
+
+            //Console.WriteLine(anos);
+
+            if (anos >= 18)
+            {
+              return true;
+            }
+               return false;
+        }
+
+        public bool ValidarDataNasc (string dataNasc)
+    {
+       if (DateTime.TryParse(dataNasc,out DateTime dataConvertida))
+           {
+           DateTime dataAtual = DateTime.Today;
+           double anos = (dataAtual - dataConvertida).TotalDays /365;
+
+           Console.WriteLine(anos);
+      
+            if (anos >= 18 )
+            {
+              return true;
+            } 
+              
+              
+    }
+             return false;
+
+
         }
     }
 }
