@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adriana\\Desktop\\back end\\back end.csproj": {}
+    "C:\\Users\\Adriana\\Desktop\\uc6\\back end.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adriana\\Desktop\\back end\\back end.csproj": {
+    "C:\\Users\\Adriana\\Desktop\\uc6\\back end.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adriana\\Desktop\\back end\\back end.csproj",
+        "projectUniqueName": "C:\\Users\\Adriana\\Desktop\\uc6\\back end.csproj",
         "projectName": "back end",
-        "projectPath": "C:\\Users\\Adriana\\Desktop\\back end\\back end.csproj",
+        "projectPath": "C:\\Users\\Adriana\\Desktop\\uc6\\back end.csproj",
         "packagesPath": "C:\\Users\\Adriana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adriana\\Desktop\\back end\\obj\\",
+        "outputPath": "C:\\Users\\Adriana\\Desktop\\uc6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adriana\\AppData\\Roaming\\NuGet\\NuGet.Config"

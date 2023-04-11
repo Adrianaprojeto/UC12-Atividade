@@ -13,3 +13,33 @@ C:\Users\Adriana\Desktop\back end\obj\Debug\net7.0\refint\back end.dll
 C:\Users\Adriana\Desktop\back end\obj\Debug\net7.0\back end.pdb
 C:\Users\Adriana\Desktop\back end\obj\Debug\net7.0\back end.genruntimeconfig.cache
 C:\Users\Adriana\Desktop\back end\obj\Debug\net7.0\ref\back end.dll
+C:\Users\Adriana\Desktop\uc5\bin\Debug\net7.0\back end.exe
+C:\Users\Adriana\Desktop\uc5\bin\Debug\net7.0\back end.deps.json
+C:\Users\Adriana\Desktop\uc5\bin\Debug\net7.0\back end.runtimeconfig.json
+C:\Users\Adriana\Desktop\uc5\bin\Debug\net7.0\back end.dll
+C:\Users\Adriana\Desktop\uc5\bin\Debug\net7.0\back end.pdb
+C:\Users\Adriana\Desktop\uc5\obj\Debug\net7.0\back end.csproj.AssemblyReference.cache
+C:\Users\Adriana\Desktop\uc5\obj\Debug\net7.0\back end.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriana\Desktop\uc5\obj\Debug\net7.0\back end.AssemblyInfoInputs.cache
+C:\Users\Adriana\Desktop\uc5\obj\Debug\net7.0\back end.AssemblyInfo.cs
+C:\Users\Adriana\Desktop\uc5\obj\Debug\net7.0\back end.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\Desktop\uc5\obj\Debug\net7.0\back end.dll
+C:\Users\Adriana\Desktop\uc5\obj\Debug\net7.0\refint\back end.dll
+C:\Users\Adriana\Desktop\uc5\obj\Debug\net7.0\back end.pdb
+C:\Users\Adriana\Desktop\uc5\obj\Debug\net7.0\back end.genruntimeconfig.cache
+C:\Users\Adriana\Desktop\uc5\obj\Debug\net7.0\ref\back end.dll
+C:\Users\Adriana\Desktop\uc6\bin\Debug\net7.0\back end.exe
+C:\Users\Adriana\Desktop\uc6\bin\Debug\net7.0\back end.deps.json
+C:\Users\Adriana\Desktop\uc6\bin\Debug\net7.0\back end.runtimeconfig.json
+C:\Users\Adriana\Desktop\uc6\bin\Debug\net7.0\back end.dll
+C:\Users\Adriana\Desktop\uc6\bin\Debug\net7.0\back end.pdb
+C:\Users\Adriana\Desktop\uc6\obj\Debug\net7.0\back end.csproj.AssemblyReference.cache
+C:\Users\Adriana\Desktop\uc6\obj\Debug\net7.0\back end.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriana\Desktop\uc6\obj\Debug\net7.0\back end.AssemblyInfoInputs.cache
+C:\Users\Adriana\Desktop\uc6\obj\Debug\net7.0\back end.AssemblyInfo.cs
+C:\Users\Adriana\Desktop\uc6\obj\Debug\net7.0\back end.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\Desktop\uc6\obj\Debug\net7.0\back end.dll
+C:\Users\Adriana\Desktop\uc6\obj\Debug\net7.0\refint\back end.dll
+C:\Users\Adriana\Desktop\uc6\obj\Debug\net7.0\back end.pdb
+C:\Users\Adriana\Desktop\uc6\obj\Debug\net7.0\back end.genruntimeconfig.cache
+C:\Users\Adriana\Desktop\uc6\obj\Debug\net7.0\ref\back end.dll
