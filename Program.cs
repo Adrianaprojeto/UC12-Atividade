@@ -10,16 +10,28 @@
 
 using back_end.classes;
 
- PessoaFisica NovaPF = new PessoaFisica();
+ //PessoaFisica NovaPF = new PessoaFisica();
  PessoaJuridica novaPj = new PessoaJuridica();
- Endereco novoEndPf = new Endereco();
+ novaPj.cnpj = "21.137.998/0001-40";
+ //Console.WriteLine(novaPj.Validarcnpj("21.137*998/0001-40"));
+
+ Console.WriteLine(@$"
+CNPJ: {novaPj.cnpj}
+Valido:{novaPj.Validarcnpj(novaPj.cnpj)}
+ 
+ ");
+
+
+
+
+ //Endereco novoEndPf = new Endereco();
 
  
 
- NovaPF.nome = "Adriana";
- NovaPF.cpf = "12345678975";
- NovaPF.rendimento = 7000.5f;
- DateTime temp = new DateTime(1979,01,01);
+ //NovaPF.nome = "Adriana";
+ //NovaPF.cpf = "12345678975";
+ //NovaPF.rendimento = 7000.5f;
+ //DateTime temp = new DateTime(1979,01,01);
 
  //NovaPF.ValidarDataNasc(temp);
 
@@ -32,18 +44,18 @@ using back_end.classes;
 
 //Console.WriteLine(NovaPF.ValidarDataNasc("2004/12/08"));
 
-novoEndPf.logradouro = "Rua Niteroi";
-novoEndPf.numero = 180;
-novoEndPf.complemento = "Predio";
-novoEndPf.endComercial = true;
+//novoEndPf.logradouro = "Rua Niteroi";
+//novoEndPf.numero = 180;
+//novoEndPf.complemento = "Predio";
+//novoEndPf.endComercial = true;
 
-NovaPF.endereco = novoEndPf;
+//NovaPF.endereco = novoEndPf;
 
-Console.WriteLine(@$"
-Nome: {NovaPF.endereco.logradouro}, Num: {NovaPF.endereco.numero}
-Maior de Idade: {NovaPF.ValidarDataNasc(NovaPF.dataNasc)}
+//Console.WriteLine(@$"
+//Nome: {NovaPF.endereco.logradouro}, Num: {NovaPF.endereco.numero}
+//Maior de Idade: {NovaPF.ValidarDataNasc(NovaPF.dataNasc)}
 
-");
+//");
 
 
 
