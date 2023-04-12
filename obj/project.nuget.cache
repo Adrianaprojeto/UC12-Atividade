@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Sq+C3QePf1ZS6F4rS2ygspsaF6zl9fy+OhB28/4vb+QfMEHQ9k+CKj+OdHS8XalDG1XLSSfbeT85AU4/PnkECA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Adriana\\Desktop\\uc6\\back end.csproj",
+=======
+  "dgSpecHash": "zNxPmRQ6TZ9W8elCx5R5Z7KeRXiDydoGE0H2RmzGIPPUA6v4SIF2JxSzvDMr+CKwFS+6yaVeRlGxVbEAXgL/CA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adriana\\Desktop\\uc5\\back end.csproj",
+>>>>>>> 3248a2950a52dd7239e44afa5b74cdc6f420bd2f
   "expectedPackageFiles": [],
   "logs": []
 }
